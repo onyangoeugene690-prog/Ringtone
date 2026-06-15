@@ -1,3 +1,9 @@
+.page-wrapper{
+     width: 1251px;
+     height: 720px;
+     margin: 0 auto;
+     overflow: visible;
+}
 :root {
     --primary: #1a252f;
     --secondary: #f39c12;
